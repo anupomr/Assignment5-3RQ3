@@ -4,7 +4,7 @@
 class LabB:
     def decrypt_password(self):
         return None
-    def retrive_login_info(self):
+    def retrieve_login_info(self):
         return None
 
 
