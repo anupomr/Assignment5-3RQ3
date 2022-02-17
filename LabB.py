@@ -1,10 +1,10 @@
 # Name : Anupom Roy
 # Student No: 400350605
 
-class LabA:
-    def encrypt_password(self):
+class LabB:
+    def decrypt_password(self):
         return None
-    def save_login_info(self):
+    def retrive_login_info(self):
         return None
 
 
